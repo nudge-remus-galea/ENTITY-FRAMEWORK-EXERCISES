@@ -1,0 +1,32 @@
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\bin\Debug\net8.0\appsettings.json
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\bin\Debug\net8.0\WEB API EXERCISES.exe
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\bin\Debug\net8.0\WEB API EXERCISES.deps.json
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\bin\Debug\net8.0\WEB API EXERCISES.runtimeconfig.json
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\bin\Debug\net8.0\WEB API EXERCISES.dll
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\bin\Debug\net8.0\WEB API EXERCISES.pdb
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.csproj.AssemblyReference.cache
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.AssemblyInfoInputs.cache
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.AssemblyInfo.cs
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.csproj.CoreCompileInputs.cache
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\staticwebassets\msbuild.WEB API EXERCISES.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\staticwebassets\msbuild.build.WEB API EXERCISES.props
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WEB API EXERCISES.props
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WEB API EXERCISES.props
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\scopedcss\bundle\WEB API EXERCISES.styles.css
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.csproj.CopyComplete
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.dll
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\refint\WEB API EXERCISES.dll
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.pdb
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.genruntimeconfig.cache
+C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\ref\WEB API EXERCISES.dll
