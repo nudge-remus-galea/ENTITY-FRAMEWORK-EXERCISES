@@ -30,3 +30,36 @@ C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERC
 C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.pdb
 C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.genruntimeconfig.cache
 C:\Users\andrei.scortea\Desktop\ASP.NET Exercise\WEB API EXERCISES\WEB API EXERCISES\obj\Debug\net8.0\ref\WEB API EXERCISES.dll
+C:\Projects\Internship\.NET\WEB API EXERCISES\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\Internship\.NET\WEB API EXERCISES\bin\Debug\net8.0\appsettings.json
+C:\Projects\Internship\.NET\WEB API EXERCISES\bin\Debug\net8.0\WEB API EXERCISES.exe
+C:\Projects\Internship\.NET\WEB API EXERCISES\bin\Debug\net8.0\WEB API EXERCISES.deps.json
+C:\Projects\Internship\.NET\WEB API EXERCISES\bin\Debug\net8.0\WEB API EXERCISES.runtimeconfig.json
+C:\Projects\Internship\.NET\WEB API EXERCISES\bin\Debug\net8.0\WEB API EXERCISES.dll
+C:\Projects\Internship\.NET\WEB API EXERCISES\bin\Debug\net8.0\WEB API EXERCISES.pdb
+C:\Projects\Internship\.NET\WEB API EXERCISES\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Projects\Internship\.NET\WEB API EXERCISES\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Internship\.NET\WEB API EXERCISES\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Internship\.NET\WEB API EXERCISES\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.csproj.AssemblyReference.cache
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.AssemblyInfoInputs.cache
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.AssemblyInfo.cs
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.csproj.CoreCompileInputs.cache
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.sourcelink.json
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\staticwebassets\msbuild.WEB API EXERCISES.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\staticwebassets\msbuild.build.WEB API EXERCISES.props
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WEB API EXERCISES.props
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WEB API EXERCISES.props
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\scopedcss\bundle\WEB API EXERCISES.styles.css
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.csproj.CopyComplete
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.dll
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\refint\WEB API EXERCISES.dll
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.pdb
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\WEB API EXERCISES.genruntimeconfig.cache
+C:\Projects\Internship\.NET\WEB API EXERCISES\obj\Debug\net8.0\ref\WEB API EXERCISES.dll

@@ -428,19 +428,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andrei.scortea\\.nuget\\packages\\": {}
+    "C:\\Users\\remus.galea\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andrei.scortea\\Desktop\\ASP.NET Exercise\\WEB API EXERCISES\\WEB API EXERCISES\\WEB API EXERCISES.csproj",
+      "projectUniqueName": "C:\\Projects\\Internship\\.NET\\WEB API EXERCISES\\WEB API EXERCISES.csproj",
       "projectName": "WEB API EXERCISES",
-      "projectPath": "C:\\Users\\andrei.scortea\\Desktop\\ASP.NET Exercise\\WEB API EXERCISES\\WEB API EXERCISES\\WEB API EXERCISES.csproj",
-      "packagesPath": "C:\\Users\\andrei.scortea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andrei.scortea\\Desktop\\ASP.NET Exercise\\WEB API EXERCISES\\WEB API EXERCISES\\obj\\",
+      "projectPath": "C:\\Projects\\Internship\\.NET\\WEB API EXERCISES\\WEB API EXERCISES.csproj",
+      "packagesPath": "C:\\Users\\remus.galea\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\Internship\\.NET\\WEB API EXERCISES\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\andrei.scortea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\remus.galea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -448,6 +453,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -490,7 +496,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
