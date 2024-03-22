@@ -434,9 +434,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Internship\\.NET\\WEB API EXERCISES\\WEB API EXERCISES.csproj",
-      "projectName": "WEB API EXERCISES",
-      "projectPath": "C:\\Projects\\Internship\\.NET\\WEB API EXERCISES\\WEB API EXERCISES.csproj",
+      "projectUniqueName": "C:\\Projects\\Internship\\.NET\\WEB API EXERCISES\\EF CORE Exercises.csproj",
+      "projectName": "EF CORE Exercises",
+      "projectPath": "C:\\Projects\\Internship\\.NET\\WEB API EXERCISES\\EF CORE Exercises.csproj",
       "packagesPath": "C:\\Users\\remus.galea\\.nuget\\packages\\",
       "outputPath": "C:\\Projects\\Internship\\.NET\\WEB API EXERCISES\\obj\\",
       "projectStyle": "PackageReference",

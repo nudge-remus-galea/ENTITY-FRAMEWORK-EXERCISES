@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wy81nQitF99ekkiGVW+xbRdTQcgnXbmgzPnhu+lGPPclUU8KQXYGxwo4UhgaOjl3WmOeR1uFGCBgIq/G5AFsPQ==",
+  "dgSpecHash": "a3KYWcGozJVaRVZ7eBu9WaU/S3G74OlDOwko9bu9J7LQPxSe+CTP99L1hZabOM4Fjgvc+LM8b02iZFkDu3Dh5Q==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Internship\\.NET\\WEB API EXERCISES\\WEB API EXERCISES.csproj",
+  "projectFilePath": "C:\\Projects\\Internship\\.NET\\WEB API EXERCISES\\EF CORE Exercises.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\remus.galea\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\remus.galea\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
